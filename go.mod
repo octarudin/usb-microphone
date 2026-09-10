@@ -1,4 +1,4 @@
-module github.com/octarudin/usb-microphone
+module github.com/octarudin/usb-microphone/v2
 
 go 1.25.4
 
